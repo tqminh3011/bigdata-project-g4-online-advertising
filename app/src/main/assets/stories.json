@@ -1,0 +1,80 @@
+{
+    "stories": [
+        {
+            "id": "8",
+            "seen": false,
+            "rank": 8,
+            "action": "BUY_SPOTIFY",
+            "actionText": "SEE SPOTIFY VOUCHERS",
+            "storyDetail": {
+                "content": "{\"title\":\"Listen up: Spotify Premium is here\",\"description\":\"Now you can pay for Spotify Premium with our app!\n\nChoose from vouchers for a 1, 2 or 3-month subscription. And if you wanna keep the music playing after that, just come back a get another voucher, it's super easy!\",\"image\":\"https://storage.googleapis.com/android-analytics-poc.appspot.com/marketing-stories/assets/story_buySpotify_banner.png\"}",
+                "template": "DEFAULT",
+                "providerCode": 4
+            },
+            "storyShortcut": {
+                "name": "Pay for Spotify",
+                "thumbnailUrl": "https://storage.googleapis.com/android-analytics-poc.appspot.com/marketing-stories/assets/story_buySpotify_shortcut.png"
+            }
+        },
+        {
+            "id": "9",
+            "seen": false,
+            "rank": 9,
+            "action": "BUY_UBER",
+            "actionText": "SEE FOOD AND TRAVEL VOUCHERS",
+            "storyDetail": {
+              "content": "{\"title\":\"Our Uber and Uber Eats vouchers have arrived\",\"description\":\"Whether you're staying in or heading out, we've got you covered with vouchers for Uber and Uber Eats available to buy right here in your app.\",\"image\":\"https://storage.googleapis.com/android-analytics-poc.appspot.com/marketing-stories/assets/story_buyUber_banner.png\"}",
+              "template": "DEFAULT"
+            },
+            "storyShortcut": {
+              "name": "Get Uber vouchers",
+              "thumbnailUrl": "https://storage.googleapis.com/android-analytics-poc.appspot.com/marketing-stories/assets/story_buyUber_shortcut.png"
+            }
+          },
+        {
+            "id": "3",
+            "seen": false,
+            "rank": 3,
+            "action": "BUY",
+            "actionText": "BUY NOW",
+            "storyDetail": {
+                "content": "{\"title\":\"Need hassle-free data or electricity?\",\"description\":\"iLife is already expensive.\n\nSo, we don't charge you extra to buy prepaid electricity, airtime or data.\n\nIt's just another way we give you more or less.\",\"image\":\"https://storage.googleapis.com/android-analytics-poc.appspot.com/marketing-stories/assets/story_buyWithouthFee_banner.png\"}",
+                "template": "DEFAULT"
+            },
+            "storyShortcut": {
+                "name": "Buy without fees",
+                "thumbnailUrl": "https://storage.googleapis.com/android-analytics-poc.appspot.com/marketing-stories/assets/story_buyWithouthFee_shortcut.png"
+            }
+        },
+        {
+            "id": "4",
+            "seen": false,
+            "rank": 4,
+            "action": "PAY_BILLS",
+            "actionText": "PAY MY BILLS NOW",
+            "storyDetail": {
+                "content": "{\"title\":\"Paying your bills is easier than ever\",\"description\":\"Need to pay an account like your rates, DSTV, store card or credit card?\n\nWe've got you covered.\",\"image\":\"https://storage.googleapis.com/android-analytics-poc.appspot.com/marketing-stories/assets/story_payYourBill_banner.png\"}",
+                "template": "DEFAULT"
+            },
+            "storyShortcut": {
+                "name": "Easy payments",
+                "thumbnailUrl": "https://storage.googleapis.com/android-analytics-poc.appspot.com/marketing-stories/assets/story_payYourBill_shortcut.png"
+            }
+        },
+        {
+            "id": "7",
+            "seen": false,
+            "rank": 7,
+            "action": "SEND_MONEY",
+            "actionText": "SEND MONEY NOW",
+            "storyDetail": {
+                "content": "{\"title\":\"SendMoney for less with our bank!\",\"description\":\"You can SendMoney to other bank customers for mahala, and to anyone else with an SA cell number for only R4.\",\"image\":\"https://storage.googleapis.com/android-analytics-poc.appspot.com/marketing-stories/assets/story_sendForLess_banner.png\"}",
+                "template": "DEFAULT"
+            },
+            "storyShortcut": {
+                "name": "Send for less",
+                "thumbnailUrl": "https://storage.googleapis.com/android-analytics-poc.appspot.com/marketing-stories/assets/story_sendForLess_shortcut.png"
+            }
+        }
+    ]
+}
